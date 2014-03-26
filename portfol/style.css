@@ -51,7 +51,9 @@ div {
 	height: 0px;
 }
 
-img {
+#infowindow {
+	height: 0px;
+	opacity: 0.5;
 }
 
 footer {
