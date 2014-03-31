@@ -73,8 +73,14 @@ div {
 	opacity: 1.0;
 }
 
+<<<<<<< HEAD
 #corsor2:hover {
 	opacity: 0.6;
+=======
+#infowindow {
+	height: 0px;
+	opacity: 0.5;
+>>>>>>> 2a0f5554b7e648f4ac055949e63a27da47b94af2
 }
 
 #infowindow {
